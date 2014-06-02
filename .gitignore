@@ -1,0 +1,3 @@
+# gitignore file
+grep/*.txt
+grep/*.html
